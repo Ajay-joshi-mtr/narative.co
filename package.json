@@ -24,7 +24,7 @@
   "dependencies": {
     "@contentful/rich-text-html-renderer": "^13.1.0",
     "@contentful/rich-text-types": "^13.0.0",
-    "@types/styled-components": "^4.1.11",
+    "@types/styled-components": "^4.1.18",
     "babel-plugin-styled-components": "^1.10.0",
     "formik": "^0.11.11",
     "fuse.js": "^3.4.4",
